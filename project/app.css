@@ -1,0 +1,89 @@
+.main{
+
+    height: 1000px;
+    width: 600px;
+    background-color: aqua;
+    align-items: center;
+    text-align: center;
+    margin-left: 300px;
+
+}
+#download_btn{
+margin-left: 980px;
+}
+.form{
+
+    display: none;
+}
+.folder{
+
+    display: flex;
+
+}
+.folder .img img{
+
+    height: 200px;
+    width: 200px;
+    border: solid black 2px;
+    margin-left: 40px;
+    border-radius: 15px;
+    margin-top: 30px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 20px;
+
+}
+.folder .para{
+
+
+    margin-left: 100px;
+    margin-bottom: -15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.form input {
+
+
+    margin-top: 10px;
+    height: 40px;
+    width: 250px;
+    border: solid black 2px;
+    margin-left: 50px;
+}
+
+button{
+
+    margin-top: 30px;
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 150px;
+    border: solid black 1px;
+    border-radius: 5px;
+    margin-left: 50px;
+}
+
+.form{
+
+
+    height: 700px;
+    width: 500px;
+    margin-left: 150px;
+    background-color: aqua;
+}
+
+label{
+    display: block;
+    width: 200px;
+    background-color: rgb(207, 64, 64);
+    color: rgb(221, 220, 218)21, 220, 218;
+    padding: 12px;
+    margin: 10px auto;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#input-file{
+    display: none;
+}
